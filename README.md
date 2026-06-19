@@ -38,5 +38,7 @@ Live portfolio showcasing real project management work, interactive dashboards, 
 ## Contact
 
 **Website:** [pattersonstrategicsolutions.com](http://pattersonstrategicsolutions.com)
+
 **Email:** info@pattersonstrategicsolutions.com
+
 **LinkedIn:** [linkedin.com/in/daizahpatterson](https://linkedin.com/in/daizahpatterson)
